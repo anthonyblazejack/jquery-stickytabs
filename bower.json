@@ -1,6 +1,6 @@
 {
   "name": "jquery-stickytabs",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "homepage": "https://github.com/aidanlister/jquery-stickytabs",
   "authors": [
     "Aidan Lister <aidan@aidanlister.com>"
@@ -20,7 +20,7 @@
     "tests"
   ],
   "dependencies": {
-    "bootstrap": ">= 3.0.0",
+    "bootstrap": ">= 2.3.0",
     "jquery": ">= 1.9.0"
   }
 }
